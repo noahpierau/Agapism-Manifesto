@@ -102,7 +102,7 @@ Agapism teaches that the universe has a meaning to it and that each of us are he
 
 Agapism teaches that all experiences matter. Some experiences may seem arbitrary or pointless to some, but they can be the exact experiences that others are living for. And while some experiences may seem cruel or unfair they can be as important and beneficial as the “good” ones. We are here to learn through trial and error and self-reflection, and although there may be pain, in the end we will grow stronger because of it.
 
-Ultimately, the core teaching of Agapism is: to love wisely. This means that we live in harmony with ourselves, with others, and with the greater good in which we find ourselves. When we heal and remove all the barriers that prevent us from Love, we are able to love the greatest good, which some people describe as God. This is the ultimate state of being. Every religion has their own way of explaining this phenomenon, but in essence it means that we live in harmony with all beings.
+Ultimately, the core teaching of Agapism is: to love wisely. This means that we live in harmony with ourselves, with others, and with the greater good in which we participate. When we heal and remove all the barriers that prevent us from Love, we are able to love the greatest good, which some people describe as God. This is the ultimate state of being. Every religion has their own way of explaining this phenomenon, but in essence it means that we live in harmony with all beings.
 
 Life is not a race and everyone follows their own path. We do not have to force ourselves to love differently than we currently can. As we grow over time, we will become good stewards of our planet.
 
@@ -110,7 +110,7 @@ Life is not a race and everyone follows their own path. We do not have to force 
 
 Agapists, the people that identify with Agapism, aim for the creation of a movement without dogma or rigid belief systems.
 
-Agapism is an open source movement, which means truth is not based on an external authority (via dogma or imposed truths), but rather on the on the collective human experience of reality.
+Agapism is an open source movement, which means truth is not based on an external authority (via dogma or imposed truths), but rather on the collective human experience of reality.
 
 The core principles and beliefs, including this manifesto, are created and refined through the open source truth process. Placing this process at the heart of Agapism is a necessary safeguard against the dogmatic pitfalls that typically plague communities built on shared beliefs.
 
