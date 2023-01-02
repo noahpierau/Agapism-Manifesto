@@ -12,16 +12,22 @@ Agapism is a not a new philosophy. It comes from the Ancient Greek word *Agape*,
 
 > **Agapism is the belief in unconditional, universal love.**
 
+---
+
 The manifesto will answer the following questions:
 - [What is Love?](#what-is-love)
   - 1: being in an open connection
   - 2: so that energy may flow freely
   - Further reflections
 - [Why Agapism?](#why-agapism)
+  - Meaning in the universe
 - [How will Agapism work?](#how-will-agapism-work)
+  - Practices and gatherings
   - The Church of Agape
 
-This is a living document, so significant changes will be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace older ones. Last edit was made on 1 January 2023.
+This is a living document, so significant changes will be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace older ones. 
+
+Last edit was made on 2 January 2023.
 
 # What is Love?
 
@@ -89,6 +95,7 @@ Love in the form of Agape simply means we will do what will best benefit all bei
 
 Agapism acknowledges that love can be difficult, both for others and for ourselves. It can require us to help others even when we don’t think they would do the same for us. It tells us to be generous to those we dislike or even despise. However, there is value in the difficulty of love. By making the effort to love our enemies, we grow our capacity to Love.
 
+### Meaning in the universe
 Agapism teaches that the universe has a meaning to it and that each of us are here for a reason. Generally speaking this reason is to experience life in order to learn how to love wisely. Even though we all have the same goal, the specifics of these experiences and lessons are different for everyone. Some people are here to learn generosity, some are here to learn humility, and others are here to learn forgiveness. There is no single correct path for everyone and there is not supposed to be. We are all unique with our own skills and ideas. Even though we are all here to learn how to love, how to do this wisely is different for everyone.
 
 > *“Love is a seed that can flourish in the most unlikely places. This mysterious and magical joy is the greatest treasure of all”*
@@ -111,6 +118,7 @@ The open source truth process was created by Yoism, the first open source religi
 
 Everyone in the movement is invited to provide input and improvements, based on their own direct experience of reality. In a participatory process we will gradually uncover, refine, and document The Truth — the clearest expression of our system of ideas and beliefs that is consistent with reality as it is directly experienced.
 
+### Practices and gatherings
 Agapists believe in synergy with science, and seek to integrate our modern scientific world view with relevant traditions and practices.
 
 To paraphrase the words of John Vervaeke:
@@ -120,6 +128,8 @@ To paraphrase the words of John Vervaeke:
 Agapists may explore and participate in different practices, to find out what works for them and what makes them flourish. Local networks with others may be created to form communities of practice.
 
 Community gatherings can include prayer, meditation, yoga, conversation, debate, philosophy, studying nature, hiking, making music, dancing, and many other activities. Agapists can adopt rituals or practices from other groups and adapt them to align with Agape.
+
+---
 
 Agapism does not prescribe any specific worldview. Everyone has their own understanding of the world, and this is respected. You can be Agapist in parallel to being Christian, Hindu, Buddhist, Muslim, atheist, nihilist or non-theist. Agapism encourages religious pluralism.
 
