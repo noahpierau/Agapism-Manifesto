@@ -1,3 +1,7 @@
+This manifesto was originally [published on Medium](https://noahpierau.medium.com/agapism-manifesto-learn-how-to-love-wisely-1a956defea5e). The repository on GitHub was created to facilitate the open source truth process, in order to refine and improve the quality of the Agapism Manifesto text.
+
+---
+
 # Agapism Manifesto
 
 We are in need of a new religion. One that everyone can join. One that does not discriminate or separate. One that protects and serves. One that is patient and kind towards non-believers. It is essential that we find such a religion, the future of humanity may depend on it.
