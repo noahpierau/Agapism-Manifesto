@@ -29,13 +29,11 @@ The manifesto will answer the following questions:
   - Practices and gatherings
   - The Church of Agape
 
-This is a living document, so significant changes will be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace older ones. 
+This is a living document, so significant changes will be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace [older ones](https://github.com/noahpierau/Agapism-Manifesto/commits/main). 
 
-Last edit was made on 2 January 2023.
+Although this manifesto was written by Noah Pierau, he does not claim any ownership. The ideas presented here are not new, for they are based on universal principles that have existed since the dawn of humanity.
 
 # What is Love?
-
-The essence of every religion is Love. It is not hard to find the evidence for this claim: open your eyes and you will find it everywhere.
 
 When you read the teachings of Jesus Christ, the word Love will appear frequently. In texts from Buddhism, Hinduism or Jainism you will find Metta, or Maitri, Maitra and Mitra, which are derived from the Sanskrit root Mid, which means Love. Furthermore, in the Muslim tradition one of the names for God is “Al-Wadud”, which means the All-Loving.
 
@@ -52,9 +50,9 @@ It is beyond the scope of this manifesto to go into detail on each of these prin
 ### 1: being in an open connection
 The first principle of Love teaches us to distinguish the being-mode from the having-mode. In the having-mode we categorize things and we try to manipulate or control them. In the being-mode we are not concerned with having something but rather by being or becoming something. These are things that an individual does not own or possess. One may lose some of their possessions or status during hardships, but what remains the same is who they are as a human being: the virtues and character traits such as courage, humility, honesty, integrity and compassion. The being mode is not a static state, it’s an ongoing process.
 
-Being in Love is a process of reciprocal opening. When we Love, we don’t relate to people categorically — in a passive way — but we transform and change our perspectives in order to open up. If this process is successful, Love can manifest in the relationship.
+Being in Love is a process of reciprocal opening. When we Love, we don’t relate to people categorically — in a passive way — but we transform and change our perspectives in order to open up. If this process is successful, Love can manifest in any relationship.
 
-Being in relation to something or someone implies that there is an open connection. This can happen on multiple levels: we can relate to ourselves, to others, or to a greater good such as an organization or a nation.
+Being in relation to something or someone implies that there is an open connection. This can happen on multiple levels: we can relate to ourselves, to others, to a greater good such as an organization or a nation, and to a "smaller good" such as a bird, a flower, a stone or a grain of sand. 
 
 Since ancient Greece, philosophers have tried to distinguish different types of relationships in which Love can manifest:
 
@@ -69,9 +67,11 @@ The philosophy of Agapism is to focus on Agape relationships. What this means wi
 ### 2: so that energy may flow freely
 There are different forms of energy that can flow in a relationship. Energy in this context should be interpreted in a wide sense: it relates to physical efforts and acts of service, but also to subtle energy forms such as making food, singing songs, sharing feelings, emotional energy, as well as cognitive energy in the form of jokes, ideas or mental models.
 
-Depending on the type of connection, different forms of energy are shared among the participants. If there is a healthy balance in the flow of energy, the relationship is sustainable.
+Depending on the type of connection, different forms of energy are shared among the participants. The relationship is sustainable when there is a healthy balance in the flow of energy. 
 
-To identify any imbalance in the flow of energy we must listen carefully to ourselves, to others, and to the greater good. Clear communication can help resolve energy imbalances.
+When imbalances in the energy flow arise, Love propels each participant to restore the balance. When a connection is not based on Love the imbalances may persist. This is associated with suffering. To identify any imbalance in the flow of energy, we must listen carefully to ourselves, to others, and to the greater good.
+
+Since energy is always in motion, keeping a healthy balance is an ongoing participatory process. Being in Love is therefore active work. This is perhaps the reason why some people give up on Love: they expect to "have" it once they experience it, but this is impossible. Clear communication is key to become aware of energy imbalances.
 
 It depends on the participants whether they allow the energy to flow freely or whether they choose to maintain certain boundaries. Examples of when boundaries might be needed: other dedicated relationships, time limits, or low energy levels. It is essential to keep track of our internal energy level: when we are drained from power it will be hard to share anything with others. It takes self-knowledge to realize which boundaries are needed, and it takes skill to communicate them in a healthy way.
 
@@ -82,7 +82,7 @@ Rumi, a 13th-century poet from Persia, put it this way:
 > *“Your task is not to seek for Love, but merely to seek and find all the barriers within yourself that you have built against it”*
 
 ### Further reflections
-Love is a natural phenomenon in the universe and central to the human condition. Without it, there would be no collaboration. The role of Love is therefore central to reason and rationality as well. Without Love, people would be stuck in the gravity well of ego-centrism.
+Love is a natural phenomenon in the universe. It is the most profound way of being. Without it, there would be no collaboration and no evolution. Love is therefore central to reason and rationality as well: many of us would be stuck in the gravity well of ego-centrism without it.
 
 Notice that we have spelled Love with a capital L so far. This is because we wanted to describe the phenomenon. When it manifests in the world, we will call it love with a small l to make the distinction.
 
