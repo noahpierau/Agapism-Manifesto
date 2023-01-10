@@ -29,7 +29,7 @@ The manifesto will answer the following questions:
   - Practices and gatherings
   - The Church of Agape
 
-This is a living document, so significant changes will be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace [older ones](https://github.com/noahpierau/Agapism-Manifesto/commits/main). 
+This is a living document, so significant changes may be made along the way. If you would like to keep a certain version of this text, please save a local copy since new versions will replace [older ones](https://github.com/noahpierau/Agapism-Manifesto/commits/main). 
 
 Although this manifesto was written by Noah Pierau, he does not claim any ownership. The ideas presented here are not new, for they are based on universal principles that have existed since the dawn of humanity.
 
@@ -131,11 +131,11 @@ To paraphrase the words of John Vervaeke:
 
 Agapists may explore and participate in different practices, to find out what works for them and what makes them flourish. Local networks with others may be created to form communities of practice.
 
-Community gatherings can include prayer, meditation, yoga, conversation, debate, philosophy, studying nature, hiking, making music, dancing, and many other activities. Agapists can adopt rituals or practices from other groups and adapt them to align with Agape.
+Community gatherings can include prayer, meditation, yoga, conversation, debate, philosophy, studying nature, hiking, making music, dancing, and many other activities. Agapists often adopt rituals or practices from other groups and adapt them to align with Agape.
 
 ---
 
-Agapism does not prescribe any specific worldview. Everyone has their own understanding of the world, and this is respected. You can be Agapist in parallel to being Christian, Hindu, Buddhist, Muslim, atheist, nihilist or non-theist. Agapism encourages religious pluralism.
+Agapism does not prescribe any specific worldview. Everyone has their own understanding of the world, and this is respected. You may be Agapist in parallel to being Christian, Hindu, Buddhist, Muslim, atheist, nihilist or non-theist. Agapism encourages religious pluralism.
 
 We refer to an old prophecy of the Cathars: that a Church of Love would grow from our combined cultures, places and lands. Do not get confused over the word ‘church’, because it simply means ‘communion’ — ecclesia in Ancient Greek. It represents coming together in a community, in a sangha, to share the seeds of love and wisdom.
 
