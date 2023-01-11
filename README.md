@@ -6,7 +6,7 @@ Our beliefs and stories from past times have resulted in global societies in whi
 
 In this manifesto, Agapism is presented as a narrative to inspire human beings to unite in becoming good stewards of this planet we call home.
 
-Agapism is a not a new philosophy. It comes from the Ancient Greek word *Agape*, which means a deep and profound love that transcends and persists regardless of circumstance. In short:
+Agapism is a not a new philosophy. It comes from the Ancient Greek word *Agape*, which means [a deep and profound love that transcends and persists regardless of circumstance](https://en.wikipedia.org/wiki/Agape). In short:
 
 > **Agapism is the belief in unconditional, universal love.**
 
@@ -48,7 +48,7 @@ While this definition sounds simple, the amount of work required to fully unders
 It is beyond the scope of this manifesto to go into detail on each of these principles, simply because there is too much information to share. We also believe that everyone should make up their own mind instead of relying on external authorities. An overview of Love is given below:
 
 ### 1: being in an open connection
-The first principle of Love teaches us to distinguish the being-mode from the having-mode. In the having-mode we categorize things and we try to manipulate or control them. In the being-mode we are not concerned with having something but rather by being or becoming something. These are things that an individual does not own or possess. One may lose some of their possessions or status during hardships, but what remains the same is who they are as a human being: the virtues and character traits such as courage, humility, honesty, integrity and compassion. The being mode is not a static state, it’s an ongoing process.
+The first principle of Love teaches us to [distinguish the being-mode](https://wiseandshinezine.com/2022/04/16/erich-fromm-on-having-versus-being/) from the having-mode. In the having-mode we categorize things and we try to manipulate or control them. In the being-mode we are not concerned with having something but rather by being or becoming something. These are things that an individual does not own or possess. One may lose some of their possessions or status during hardships, but what remains the same is who they are as a human being: the virtues and character traits such as courage, humility, honesty, integrity and compassion. The being mode is not a static state, it’s an ongoing process.
 
 Being in Love is a process of reciprocal opening. When we Love, we don’t relate to people categorically — in a passive way — but we transform and change our perspectives in order to open up. If this process is successful, Love can manifest in any relationship.
 
@@ -93,7 +93,7 @@ What is needed more than ever is Agape. In the global societies of today we are 
 
 Agape is the highest level of Love that we can reach. It is demonstrated in our dedication to heal, to improve the lives of others, by being conscious of how our actions affect the greater good of mankind, by showing random acts of kindness, all without expecting anything in return.
 
-Essentially, the aim of Agapism is: harmonious human beings. Not only with themselves — also with others and with the world around them.
+> **Essentially, the aim of Agapism is: harmonious human beings. Not only with themselves — also with others and with the world around them.**
 
 Love in the form of Agape simply means we will do what will best benefit all beings. Doing what will best benefit all beings includes us as well. When we are the ones who are struggling the most, we can open ourselves up to receive the energy of others. We should not be afraid to speak up when we are struggling with the obstacles of life, for it is not just OK to ask for help, Agape encourages us to do so.
 
@@ -118,14 +118,14 @@ Agapism is an open source movement, which means truth is not based on an externa
 
 The core principles and beliefs, including this manifesto, are created and refined through the open source truth process. Placing this process at the heart of Agapism is a necessary safeguard against the dogmatic pitfalls that typically plague communities built on shared beliefs.
 
-The open source truth process was created by Yoism, the first open source religion to ever exist. This process ensures a living religion whose writings will evolve over time, through continuous reflection, growth, and evolution of the collective intelligence.
+The open source truth process was [created by Yoism](https://github.com/noahpierau/bookofyo#open-source-truth), the first open source religion to ever exist. This process ensures a living religion whose writings will evolve over time, through continuous reflection, growth, and evolution of the collective intelligence.
 
 Everyone in the movement is invited to provide input and improvements, based on their own direct experience of reality. In a participatory process we will gradually uncover, refine, and document The Truth — the clearest expression of our system of ideas and beliefs that is consistent with reality as it is directly experienced.
 
 ### Practices and gatherings
 Agapists believe in synergy with science, and seek to integrate our modern scientific world view with relevant traditions and practices.
 
-To paraphrase the words of John Vervaeke:
+To paraphrase the [words of John Vervaeke](https://www.youtube.com/watch?v=yImlXr5Tr8g):
 
 *The very processes that make us adaptive and intelligent subject us to problems of self-deception and self-destruction. We create bullshit for ourselves, for other people, and for the world around us. This can cause anxiety, despair, or a sense of absurdity. Across cultures and historical periods, human beings have created sets of practices to ameliorate these perennial problems.*
 
@@ -137,7 +137,7 @@ Community gatherings can include prayer, meditation, yoga, conversation, debate,
 
 Agapism does not prescribe any specific worldview. Everyone has their own understanding of the world, and this is respected. You may be Agapist in parallel to being Christian, Hindu, Buddhist, Muslim, atheist, nihilist or non-theist. Agapism encourages religious pluralism.
 
-We refer to an old prophecy of the Cathars: that a Church of Love would grow from our combined cultures, places and lands. Do not get confused over the word ‘church’, because it simply means ‘communion’ — ecclesia in Ancient Greek. It represents coming together in a community, in a sangha, to share the seeds of love and wisdom.
+We refer to [an old prophecy of the Cathars](https://www.oshonews.com/2011/01/06/the-cathar-prophecy/): that a Church of Love would grow from our combined cultures, places and lands. Do not get confused over the word ‘church’, because it simply means ‘communion’ — ecclesia in Ancient Greek. It represents coming together in a community, in a sangha, to share the seeds of love and wisdom.
 
 ### The Church of Agape
 *It has no fabric — only understanding.*
@@ -186,4 +186,4 @@ We refer to an old prophecy of the Cathars: that a Church of Love would grow fro
 
 Agapism is a leaderless movement. It is apolitical and unaffiliated with any corporate or religious institution. Everyone is welcome to join.
 
-It is time for us to learn how to love wisely. Many of us will be needed to change our current systems and societies. United in Agape, let us spread love and wisdom to heal the world.
+It is time for us to learn how to love wisely. Many of us will be needed to change our current systems and societies. United in Agape, let us spread love and wisdom and heal the world.
