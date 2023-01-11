@@ -1,20 +1,20 @@
-This manifesto was originally [published on Medium](https://noahpierau.medium.com/agapism-manifesto-learn-how-to-love-wisely-1a956defea5e). The repository on GitHub was created to facilitate the open source truth process, in order to refine and improve the quality of the Agapism Manifesto text.
-
----
-
 # Agapism Manifesto
 
-We are in need of a new religion. One that everyone can join. One that does not discriminate or separate. One that protects and serves. One that is patient and kind towards non-believers. It is essential that we find such a religion, the future of humanity may depend on it.
+We need a new narrative. One that can unify humanity. One that does not discriminate. One that protects and serves. One that is patient and kind — embracing diversity and promoting pluralism. It is essential that we find such a story, the future of humanity may depend on it.
 
-Our beliefs and stories from past times have resulted in global societies in which chaos, fear and uncertainty are ever increasing. Human beings are not the only victims of previous religions: the plants and animals on this planet are suffering as well.
+Our beliefs and stories from past times have resulted in global societies in which chaos, fear and uncertainty are ever increasing. However, human beings are not the only victims of previous narratives: the plants and animals on this planet are suffering as well.
 
-In this manifesto, Agapism is presented as a leaderless movement to heal the world and to inspire people to be good stewards of this planet.
-
-![image](https://user-images.githubusercontent.com/16287891/210279494-b6e2a1a7-40b0-4821-9830-84c8d096f958.png)
+In this manifesto, Agapism is presented as a narrative to inspire human beings to unite in becoming good stewards of this planet we call home.
 
 Agapism is a not a new philosophy. It comes from the Ancient Greek word *Agape*, which means a deep and profound love that transcends and persists regardless of circumstance. In short:
 
 > **Agapism is the belief in unconditional, universal love.**
+
+---
+
+![image](https://user-images.githubusercontent.com/16287891/210279494-b6e2a1a7-40b0-4821-9830-84c8d096f958.png)
+
+This manifesto was originally [published on Medium](https://noahpierau.medium.com/agapism-manifesto-learn-how-to-love-wisely-1a956defea5e). The repository on GitHub was created to facilitate the open source truth process, in order to refine and improve the quality of the Agapism Manifesto text.
 
 ---
 
