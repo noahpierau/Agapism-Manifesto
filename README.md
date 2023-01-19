@@ -90,7 +90,7 @@ Now that we have a common understanding of the core principles, it’s time to e
 
 What is needed more than ever is Agape. In our modern societies we are severely lacking compassion, community, and human connection.
 
-Agape is the highest level of Love that anyone can reach. It is demonstrated by our dedication to heal, by being aware of how our actions affect the greater good of mankind, by showing random acts of kindness, by improving the lives of others, all without expecting anything in return.
+Agape is the highest aspect of Love that anyone can reach. It is demonstrated by our dedication to heal, by being aware of how our actions affect the greater good of mankind, by showing random acts of kindness, by improving the lives of others, all without expecting anything in return.
 
 Love in the form of Agape simply means we will do what will best benefit all beings. Doing what will best benefit all beings includes us as well. When we are the ones who need help the most, we can open ourselves up to receive the energy of others. We should not be afraid to speak up when we are struggling with the obstacles of life — it is not just OK to ask for help, Agape encourages us to do so.
 
