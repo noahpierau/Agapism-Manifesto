@@ -1,8 +1,6 @@
 # Agapism Manifesto
 
-We need a new narrative. One that can unify humanity. One that does not discriminate. One that protects and serves. One that is patient and kind — embracing diversity and promoting pluralism. It is essential that we find such a story, the future of humanity may depend on it.
-
-Our beliefs and stories from past times have resulted in global societies in which chaos, fear and uncertainty are ever increasing. However, human beings are not the only victims of previous narratives: the plants and animals on this planet are suffering as well.
+Imagine a new narrative. One with the potential to unify humanity. One that will protect our planet. A story that is patient and kind — embracing diversity and promoting pluralism. If such a story is possible, it is essential that we find it. The future of humanity may depend on this quest.
 
 In this manifesto, Agapism is presented as a narrative to inspire human beings to unite in becoming good stewards of this planet we call home.
 
@@ -84,7 +82,7 @@ Love is a natural phenomenon in the universe. It is the most profound way of bei
 
 Notice that we have spelled Love with a capital L so far. This is because we wanted to describe the phenomenon. When it manifests in the world, we will call it love with a small l to make the distinction.
 
-Now that we have a common understanding of the core principles, it’s time to explore Agapism in more detail.
+Now that we have a common understanding of the core principles, it is time to explore Agapism in more detail.
 
 # Why Agapism?
 
@@ -144,8 +142,6 @@ We refer to [an old prophecy of the Cathars](https://www.oshonews.com/2011/01/06
 *It has no rivals — because it is non-competitive.*
 
 *It has no ambition, because it only seeks to serve.*
-
-*It knows of no boundaries for nationalisms are unloving.*
 
 *It is not of itself because it seeks to enrich all groups and religions.*
 
