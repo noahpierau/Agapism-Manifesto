@@ -101,7 +101,7 @@ Agapism teaches that the universe has a meaning to it and that each of us are he
 
 Agapism teaches that all experiences matter. Some experiences may seem arbitrary or pointless to some, but they can be the exact experiences that others are living for. And while some experiences may seem cruel or unfair they can be as important and beneficial as the “good” ones. We are here to learn through trial and error and self-reflection, and although there may be pain, in the end we will grow stronger because of it.
 
-Ultimately, the core teaching of Agapism is: to love wisely. This means that we live in harmony with ourselves, with others, and with the greater good in which we participate. When we heal and remove all the barriers that prevent us from Love, we are able to love the *greatest good*, which some people describe as God. This is the ultimate state of being. Every religion has their own way of explaining this phenomenon, but in essence it means that we live in harmony with all beings.
+Ultimately, the core teaching of Agapism is: to love wisely. This means that we live in balance with ourselves, with others, and with the greater good in which we participate. When we heal and remove all the barriers that prevent us from Love, we are able to love the *greatest good*, which some people describe as God. This is the ultimate state of being. Every religion has their own way of explaining this phenomenon, but in essence it means that we live in balance with all beings.
 
 Life is not a race and everyone follows their own path. We do not have to force ourselves to love differently than we currently can. As we grow over time, we will become better stewards of our planet.
 
